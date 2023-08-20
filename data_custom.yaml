@@ -1,0 +1,6 @@
+train: "C:/HSE_VisionGuard_2/train"
+val: "C:/HSE_VisionGuard_2/val"
+
+nc: 2
+
+names: ["helmet","vest"]
