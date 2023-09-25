@@ -12,3 +12,5 @@ with yt_dlp.YoutubeDL(ydl_opts) as ydl:
     ydl.download([url])
 
 print(f"Video saved to {saving_location}")
+
+print('i will update it later')
