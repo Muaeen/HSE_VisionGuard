@@ -25,6 +25,3 @@ HSE_vissionGaurd is a computer vision-based solution designed to enhance workpla
 We welcome contributions! If you'd like to help improve HSE_VisionGuard
 
 :heart: Made with love for a safer.
-
-
-Hi my name is Janah 
