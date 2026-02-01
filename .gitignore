@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# YOLO / ML
+runs/
+*.pt
+*.onnx
+*.engine
+*.mlmodel
+labels.cache
+
+# Data
+train/
+val/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Misc
+*.log
+*.tmp
+output_detection.mp4
+

@@ -1,5 +1,5 @@
-train: "C:/HSE_VisionGuard_2/train"
-val: "C:/HSE_VisionGuard_2/val"
+train: train
+val: val
 
 nc: 2
  
