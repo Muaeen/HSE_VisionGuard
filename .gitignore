@@ -10,8 +10,8 @@ venv/
 ENV/
 
 # YOLO / ML
-runs/
-*.pt
+
+
 *.onnx
 *.engine
 *.mlmodel
